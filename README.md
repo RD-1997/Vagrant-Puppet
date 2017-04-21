@@ -20,7 +20,7 @@ Once everything is succesfully completed, ssh to your master with the command:
 
 > vagrant ssh master
 
-# step 5
+# Step 5
 Write the following commands:
 
 > sudo su
